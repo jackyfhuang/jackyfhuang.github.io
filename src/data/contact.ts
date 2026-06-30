@@ -1,5 +1,5 @@
 export const contact = {
-  email: 'jackyhfhuang@gmail.com',
+  email: 'jackyfhuang@gmail.com',
   github: 'https://github.com/jackyfhuang',
-  linkedin: 'https://linkedin.com/in/yourprofile',
+  linkedin: 'https://www.linkedin.com/in/jack-huang-148496266/',
 } as const
