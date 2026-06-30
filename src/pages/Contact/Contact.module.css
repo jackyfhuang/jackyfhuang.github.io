@@ -1,0 +1,10 @@
+.page {
+  display: flex;
+  justify-content: center;
+  padding-top: var(--space-8);
+}
+
+.page section {
+  border-top: none;
+  padding-top: 0;
+}
